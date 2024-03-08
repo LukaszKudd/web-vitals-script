@@ -1,4 +1,4 @@
-console.log("TEST SCRIPT: ", winow.myData)
+console.log("TEST SCRIPT: ", window.myData)
 fetch('https://httpbin.org/status/200', {
     method: 'POST',
     headers: {
