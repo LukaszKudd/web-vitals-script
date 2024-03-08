@@ -1,3 +1,4 @@
+console.log("TEST SCRIPT: ", winwow.myData)
 fetch('https://httpbin.org/status/200', {
     method: 'POST',
     headers: {
